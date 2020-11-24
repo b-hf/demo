@@ -1,1 +1,2 @@
 local master
+>>>>>>> refs/remotes/origin/master
